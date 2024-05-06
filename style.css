@@ -1,0 +1,123 @@
+#hero{
+    height: 700px;
+    background-size: cover;
+    background-image: url(img/banner.jpg);
+    padding: 100px;
+}
+.title{
+    font-size: 65px;
+}
+.btn2{
+    background-color: transparent;
+}
+.box1{
+    background-color: #A59178;
+    height: 200px;
+    width: 250px;
+    text-align: center;
+    padding: 40px;
+}
+.flex1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 280px;
+    color: #ffffff;
+}
+.title1{
+    margin-top: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+.sub-title1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.line1{
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+}
+.line1:hover{
+    transform: scale(1.1);
+    transition: 0.5s ease;
+}
+#third{
+    background-color: #ad8f6a;
+    height: 1200px;
+}
+.text1{
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+    padding-top: 100px;
+}
+.sub-text1{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+.overlay-img{
+    height: 400px;
+    width: 32%;
+    filter: blur(1px);
+}
+.image-container{
+    position: relative;
+}
+.text-overlay{
+    position: absolute;
+    top: 70%;
+    left: 4%;
+    color: #fff;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text-overlay2{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    color: #fff;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text-overlay3{
+    position: absolute;
+    top: 70%;
+    left: 73%;
+    color: #fff;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+.overlay-box1{
+    position: relative;
+}
+.overlay-text1{
+    background-color: #ad8f6a;
+    color: #fff;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding: 40px;
+    position: absolute;
+    margin-left: 70px;
+    bottom:  120px;
+}
+footer{
+    background-image: url(img/footer.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.input{
+    width: 100%;
+}
+textarea{
+    width: 100%;
+}
+.first{
+    width: 95%;
+}
